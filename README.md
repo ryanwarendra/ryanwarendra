@@ -44,7 +44,7 @@ Ini adalah tempat di mana saya mengekpresikan kegabutan saya dan menemukan hal b
 <br />
 
 ### 📊 GitHub Stats:
-![Ryan Warendra github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Ryan Warendra github stats](https://github-readme-stats.vercel.app/api?username=ryanwarendra&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
