@@ -26,7 +26,7 @@ Ini adalah tempat di mana saya mengekpresikan kegabutan saya dan menemukan hal b
 ### 🎵 Spotify Status
 <hr> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&redirect=true)<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dgdkauseu7qqxn4ffg4ews65km?si=Fi2ZUwjSQ2er_qmiLCF3Ow&utm_source-sg&redirect=true)<br>
 
 [<img src="https://github.com/dwiHard/dwiHard/blob/main/btn-spotify.png" width="180">](https://spotify-github-profile.vercel.app/api/login)<br>
 
