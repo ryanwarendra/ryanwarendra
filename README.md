@@ -23,6 +23,15 @@ Ini adalah tempat di mana saya mengekpresikan kegabutan saya dan menemukan hal b
 
 <br />
 
+### 🎵 Spotify Status
+<hr> 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hardiyantomilan1899-sg&redirect=true)<br>
+
+[<img src="https://github.com/dwiHard/dwiHard/blob/main/btn-spotify.png" width="180">](https://spotify-github-profile.vercel.app/api/login)<br>
+
+<br>
+
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
